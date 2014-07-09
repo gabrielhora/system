@@ -1,0 +1,10 @@
+{
+    "require": {
+        "j4mie/idiorm": "*"
+    },
+	"autoload": {
+		"psr-4": {
+			"System\\": "src/System/"
+		}
+	}
+}
